@@ -1,0 +1,5 @@
+# mac ignore
+.DS_Store
+
+# xcode project
+*.xcodeproj/xcuserdata/dimmaryanto93.xcuserdatad/xcdebugger/ 
